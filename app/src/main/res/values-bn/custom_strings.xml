@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">মুখের সাহায্যে আনলক করুন</string>
+    <string name="attr_light_dark">মুখের আরো আলো প্রয়োজন</string>
+    <string name="attr_light_high">মুখে অনেক বেশি আলো রয়েছে</string>
+    <string name="attr_light_shadow">মুখে অনেক ছায়া পড়েছে</string>
+    <string name="btn_done">সম্পন্ন হয়েছে</string>
+    <string name="face_intro_conten_first_point">কোনো প্যাটার্ন, PIN বা পাসওয়ার্ডের চেয়ে মুখ মেলানো কম নিরাপদ</string>
+    <string name="face_intro_content_second_point">আপনার মতো দেখতে কেউ আপনার ফোন আনলক করতে পারে</string>
+    <string name="face_intro_content_third_point">আপনার মুখ শনাক্ত করার ডেটা আপনার ফোনে ব্যক্তিগত করে রাখা হয়েছে</string>
+    <string name="face_intro_remember">মনে রাখুন:</string>
+    <string name="face_intro_summary">আপনার ফোনের দিকে তাকিয়ে এটি আনলক করুন।</string>
+    <string name="face_intro_title">মুখ আনলক সম্বন্ধে</string>
+    <string name="facelock_setup_notification_text">মুখ আনলক সেট আপ করুন</string>
+    <string name="facelock_setup_notification_title">এক ঝলকে আনলক করুন</string>
+    <string name="face_camera_content">আপনার মুখ সঠিক স্থানে রাখুন</string>
+    <string name="face_camera_content_tip">নিচে আপনার মুখটি মাঝামাঝি রয়েছে কিনা নিশ্চিত করুন। মুখটি ভালভাবে আলোকিত করুন এবং সরাসরি আপনার ফোনের দিকে তাকান।</string>
+    <string name="face_next_content">সব প্রস্তুত</string>
+    <string name="face_next_content_tip">"এখন যখন আপনি নিজের মুখটি স্ক্যান করে ফেলেছেন, শুধু একবার তাকিয়েই আপনি ফোনটি আনলক করতে পারেন।"</string>
+    <string name="face_try_content">কিছু ভুল হয়েছে</string>
+    <string name="face_try_content_tip">"ফেস স্ক্যান ব্যর্থ হয়েছে। নিশ্চিত হয়ে নিন যে আপনি সুআলোকিত স্থানে আছেন এবং ক্যামেরার দিকে তাকিয়ে আছেন।"</string>
+    <string name="perm_required_alert_button_app_info">অ্যাপের তথ্য</string>
+    <string name="perm_required_alert_msg">আপনার ডিভাইসে কিছু জিনিসকে অ্যাক্সেস করতে ফেস আনলকের অনুমতি নেওয়া প্রয়োজন। পুনরায় সক্ষম করতে অ্যাপের তথ্যে “অনুমতিগুলো” নির্বাচন করুন।</string>
+    <string name="perm_required_alert_title">অনুমতিগুলো প্রয়োজনীয়</string>
+    <string name="policy_disabled_alert_msg">মুখ আনলক প্রশাসক দ্বারা অক্ষম করা হয়েছে।</string>
+    <string name="title_activity_face_intro">মুখ আনলক উপস্থাপনা</string>
+    <string name="unlock_failed_face_blur">মুখটি অত্যন্ত ঝাপসা</string>
+    <string name="unlock_failed_face_large">মুখ খুব কাছে রয়েছে</string>
+    <string name="unlock_failed_face_multi">অনেক বেশি মুখ শনাক্ত হয়েছে</string>
+    <string name="unlock_failed_face_not_complete">শুধুমাত্র আংশিক মুখ শনাক্ত হয়েছে</string>
+    <string name="unlock_failed_face_small">মুখটি অত্যন্ত দূরে</string>
+    <string name="upgrade_finish_summary">"এখন আপনি আপনার ডিভাইস মুখ আনলকের সাহায্যে আনলক করার জন্য প্রস্তুত"</string>
+    <string name="upgrade_finish_title">ঠিক আছে!</string>
+</resources>
